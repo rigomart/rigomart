@@ -8,8 +8,8 @@ AI-assisted development, productivity tools, and the intersection between phonet
 
 ## Tech I work with
 
-TypeScript, React, Next.js, Node.js, Bun, PostgreSQL, TanStack Router/Query, Tailwind CSS, Drizzle
+TypeScript, React, Next.js, Node.js, PostgreSQL, Tailwind CSS, Drizzle, TanStack Router/Query
 
-## Open to
+## Get in touch
 
-Fullstack engineer roles, remote or hybrid.
+Always open to new challenges and opportunities. Feel free to reach me at any of my social media profiles or email.
