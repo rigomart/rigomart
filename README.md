@@ -1,4 +1,4 @@
-Fullstack Engineer based in Lima, Peru. 4+ years building web applications end-to-end.
+Frontend Engineer based in Lima, Peru. 4+ years building web applications end-to-end.
 
 Led architecture initiatives for enterprise platforms and ship side projects from idea to production.
 
